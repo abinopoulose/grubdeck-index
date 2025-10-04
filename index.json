@@ -22,5 +22,16 @@
             "https://raw.githubusercontent.com/xenlism/Grub-themes/refs/heads/main/xenlism-grub-1080p-Debian/Xenlism-Debian/background.png"
         ],
         "created_by": "xenlism"
+    },
+    { 
+        "id": 3, 
+        "name": "xenlism_fedora_1080p", 
+        "cover_image": "https://gitlab.com/grub-themes/fedora-1080p/-/raw/main/background.png",
+        "repo_link": "https://gitlab.com/grub-themes/fedora-1080p.git", 
+        "description": "Screen Size: 1080p", 
+        "carousel_images" :[
+            "https://gitlab.com/grub-themes/fedora-1080p/-/raw/main/background.png"
+        ],
+        "created_by": "xenlism"
     }
 ]
