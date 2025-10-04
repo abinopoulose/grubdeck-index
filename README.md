@@ -31,7 +31,7 @@ cd grubdeck-theme-index
 ``` 
 
 ### Step 3: Edit the Index File
-Open the themes/index.json file and add a new JSON object for your theme to the end of the existing list, making sure to include a comma , after the previous theme's closing curly brace (}).
+Open the index.json file and add a new JSON object for your theme to the end of the existing list.
 
 ### Theme Entry Structure
 Your entry must strictly adhere to the following format. Pay close attention to the required data types for each field.
