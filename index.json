@@ -42,5 +42,16 @@
             "https://gitlab.com/grub-themes/ubuntu-2k/-/raw/main/background.png"
         ],
         "created_by": "xenlism"
+    },
+    { 
+        "id": 4, 
+        "name": "Kali_2k", 
+        "cover_image": "https://gitlab.com/grub-themes/kali-2k/-/raw/main/background.png",
+        "repo_link": "https://gitlab.com/grub-themes/kali-2k.git", 
+        "description": "Screen Size: 2k | Made for Kali", 
+         "carousel_images" :[
+            "https://gitlab.com/grub-themes/kali-2k/-/raw/main/background.png"
+        ],
+        "created_by": "xenlism"
     }
 ]
