@@ -31,5 +31,16 @@
             "https://gitlab.com/grub-themes/fedora-1080p/-/raw/main/background.png"
         ],
         "created_by": "xenlism"
+    },
+    { 
+        "id": 4, 
+        "name": "Ubuntu_2k", 
+        "cover_image": "https://gitlab.com/grub-themes/ubuntu-2k/-/raw/main/background.png",
+        "repo_link": "https://gitlab.com/grub-themes/ubuntu-2k.git", 
+        "description": "Screen Size: 2k | Made for Ubuntu", 
+         "carousel_images" :[
+            "https://gitlab.com/grub-themes/ubuntu-2k/-/raw/main/background.png"
+        ],
+        "created_by": "xenlism"
     }
 ]
