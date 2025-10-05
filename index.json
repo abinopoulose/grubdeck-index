@@ -1,34 +1,32 @@
 [ 
     { 
         "id": 1, 
-        "name": "xenlism_Ubuntu_1080p", 
-        "cover_image": "https://raw.githubusercontent.com/xenlism/Grub-themes/refs/heads/main/xenlism-grub-1080p-ubuntu/Xenlism-Ubuntu/background.png",
-        "repo_link": "https://github.com/abinopoulose/grub-theme-02", 
+        "name": "Ubuntu_1080p", 
+        "cover_image": "https://raw.githubusercontent.com/abinopoulose/grub-theme-ubuntu-1080p/refs/heads/master/background.png",
+        "repo_link": "https://github.com/abinopoulose/grub-theme-ubuntu-1080p.git", 
         "description": "Screen Size: 1080p | Made for Ubuntu", 
          "carousel_images" :[
-            "https://raw.githubusercontent.com/xenlism/Grub-themes/refs/heads/main/xenlism-grub-1080p-ubuntu/Xenlism-Ubuntu/background.png",
-            "https://raw.githubusercontent.com/xenlism/Grub-themes/refs/heads/main/xenlism-grub-1080p-ubuntu/Xenlism-Ubuntu/background.png"
+            "https://raw.githubusercontent.com/abinopoulose/grub-theme-ubuntu-1080p/refs/heads/master/background.png"
         ],
         "created_by": "xenlism"
     },
     { 
         "id": 2, 
-        "name": "xenlism_Debian_1080p", 
-        "cover_image": "https://raw.githubusercontent.com/xenlism/Grub-themes/refs/heads/main/xenlism-grub-1080p-Debian/Xenlism-Debian/background.png",
-        "repo_link": "https://github.com/abinopoulose/grub-theme-01", 
-        "description": "Screen Size: 1080p", 
+        "name": "Debian_1080p", 
+        "cover_image": "https://raw.githubusercontent.com/abinopoulose/grub-theme-debian-1080p/refs/heads/main/background.png",
+        "repo_link": "https://github.com/abinopoulose/grub-theme-debian-1080p.git", 
+        "description": "Screen Size: 1080p  | Made for Debian", 
         "carousel_images" :[
-            "https://raw.githubusercontent.com/xenlism/Grub-themes/refs/heads/main/xenlism-grub-1080p-Debian/Xenlism-Debian/background.png",
-            "https://raw.githubusercontent.com/xenlism/Grub-themes/refs/heads/main/xenlism-grub-1080p-Debian/Xenlism-Debian/background.png"
+            "https://raw.githubusercontent.com/abinopoulose/grub-theme-debian-1080p/refs/heads/main/background.png"
         ],
         "created_by": "xenlism"
     },
     { 
         "id": 3, 
-        "name": "xenlism_fedora_1080p", 
+        "name": "Fedora_1080p", 
         "cover_image": "https://gitlab.com/grub-themes/fedora-1080p/-/raw/main/background.png",
         "repo_link": "https://gitlab.com/grub-themes/fedora-1080p.git", 
-        "description": "Screen Size: 1080p", 
+        "description": "Screen Size: 1080p | Made for Fedora", 
         "carousel_images" :[
             "https://gitlab.com/grub-themes/fedora-1080p/-/raw/main/background.png"
         ],
