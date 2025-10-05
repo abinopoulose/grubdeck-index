@@ -64,5 +64,16 @@
             "https://gitlab.com/grub-themes/fedora-2k/-/raw/main/background.png"
         ],
         "created_by": "xenlism"
+    },
+    { 
+        "id": 7, 
+        "name": "Fedora_4k", 
+        "cover_image": "https://gitlab.com/grub-themes/fedora-4k/-/raw/main/background.png",
+        "repo_link": "https://gitlab.com/grub-themes/fedora-4k.git", 
+        "description": "Screen Size: 4k | Made for Fedora", 
+         "carousel_images" :[
+            "https://gitlab.com/grub-themes/fedora-4k/-/raw/main/background.png"
+        ],
+        "created_by": "xenlism"
     }
 ]
